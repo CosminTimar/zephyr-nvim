@@ -1,0 +1,7 @@
+bootloader/
+build/
+doc/
+modules/
+tools/
+zephyr/
+nvim/lazy-look.json
